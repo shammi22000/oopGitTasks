@@ -12,7 +12,7 @@ public class CarMainMethod {
 		car1.setModel("KSP9");
 		car1.setSpeed(100);
 		
-		
+		//get the output of the car value
 		System.out.println("Brand name:" +car1.getBrand());
 		System.out.println("Chassi number of the vehicle:" +car1.getChassiNo());
 		System.out.println("Engine capacity : " +car1.getEngineCapacity());
