@@ -38,6 +38,7 @@ public class CarMainMethod {
 		car1.deccelerate();
 		System.out.println("Speed after deccelerate : "+car1.speed);
 		System.out.println("Vehicle stop.");
+		System.out.println("End journey");
 	}
 
 }
