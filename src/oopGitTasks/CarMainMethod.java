@@ -5,6 +5,7 @@ public class CarMainMethod {
 	public static void main(String[] args) {
 		CarSubclass car1=new CarSubclass();
 		
+		//Set the values of the car
 		car1.setBrand("Toyota");
 		car1.setChassiNo(2546321);
 		car1.setEngineCapacity(1000);
